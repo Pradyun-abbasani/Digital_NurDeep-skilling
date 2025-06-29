@@ -1,0 +1,21 @@
+
+
+Trigger UPDATECUSTOMERLASTMODIFIED compiled
+
+Elapsed: 00:00:00.015
+
+
+Table AUDITLOG created.
+
+Elapsed: 00:00:00.026
+
+
+Trigger LOGTRANSACTION compiled
+
+Elapsed: 00:00:00.021
+
+
+
+Trigger CHECKTRANSACTIONRULES compiled
+
+Elapsed: 00:00:00.015

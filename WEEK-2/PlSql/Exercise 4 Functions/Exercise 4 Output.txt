@@ -1,0 +1,26 @@
+
+
+Function CALCULATEMONTHLYINSTALLMENT compiled
+
+Elapsed: 00:00:00.014
+
+"MONTHLY_INSTALLMENT"
+299.7089710466547
+
+
+
+Function CALCULATEAGE compiled
+
+Elapsed: 00:00:00.010
+
+"AGE"
+ 20
+
+
+
+Sufficient balance
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.004

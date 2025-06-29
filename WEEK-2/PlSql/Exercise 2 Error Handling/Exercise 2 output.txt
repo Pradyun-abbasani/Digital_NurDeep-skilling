@@ -1,0 +1,17 @@
+
+
+Procedure UPDATESALARY compiled
+
+Elapsed: 00:00:00.016
+
+
+
+Procedure ADDNEWCUSTOMER compiled
+
+Elapsed: 00:00:00.006
+
+
+
+Procedure SafeTransferFunds compiled
+
+Elapsed: 00:00:00.0010

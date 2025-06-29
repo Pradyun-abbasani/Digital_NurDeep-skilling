@@ -1,0 +1,23 @@
+
+
+PL/SQL procedure successfully completed.
+ 
+
+Elapsed: 00:00:00.010
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.014
+
+
+PL/SQL procedure successfully completed.
+ 
+
+Elapsed: 00:00:00.002
+
+Reminder: Loan 1001 for Customer 789 is due on 2025-07-09
+Reminder: Loan 1000 for Customer 456 is due on 2025-07-06
+Reminder: Loan 1002 for Customer 321 is due on 2025-07-24
+
+
