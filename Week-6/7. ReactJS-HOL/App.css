@@ -1,0 +1,49 @@
+/* General App container */
+.App {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fff;
+  padding: 40px;
+}
+
+/* Heading styling */
+h1 {
+  color: green;
+  font-size: 2em;
+  margin-bottom: 30px;
+}
+
+/* Table styling */
+table {
+  margin: 0 auto; /* Center the table */
+  border-collapse: collapse;
+  width: 400px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Header row */
+th {
+  background-color: #e6ffe6;
+  color: green;
+  font-weight: bold;
+  padding: 12px;
+  border: 1px solid #ccc;
+}
+
+/* Table rows */
+td {
+  padding: 12px;
+  border: 1px solid #ccc;
+  color: #333;
+}
+
+/* Hover effect on rows */
+tr:hover {
+  background-color: #f9f9f9;
+}
+
+/* Optional: Add a subtle border to the table */
+table {
+  border: 1px solid #aaa;
+  border-radius: 5px;
+}
